@@ -12,6 +12,7 @@ Right now, I focus on creating clean, functional web applications and sharpening
 - JavaScript (ES6+)
 - HTML5
 - CSS3
+- Tailwind
 - DOM Manipulation
 - REST API Integration
 - UI Logic & Component Thinking
