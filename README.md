@@ -1,83 +1,43 @@
-# 👋 Hey, I'm Korede  
-Frontend Developer | Geophysics Student | Future Systems Engineer
+# Hi, I'm Korede
 
-I’m a student currently studying *Applied Geophysics, building strong foundations in software development while exploring the intersection between **coding, physics, and intelligent systems*.
+Frontend Developer | Geophysics Student
 
-Right now, I focus on creating clean, functional web applications and sharpening the skills that will fuel my long-term goals in *geophysical AI, **systems programming, and **game development*.
+I build responsive web applications with clean, maintainable code. Currently strengthening my foundation in JavaScript, React, and C++ for systems programming. My long-term direction includes systems programming and embedded systems.
 
----
+## What I Work With
 
-## 🚀 What I Work With
-### *Core Stack*
+- HTML, CSS, Tailwind
 - JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind
-- DOM Manipulation
-- REST API Integration
-- UI Logic & Component Thinking
+- React (in progress)
+- REST APIs
+- Git and GitHub
 
----
+## What I'm Learning
 
-## 📚 Currently Learning
-- *React.js*
-- *Advanced JavaScript Patterns*
-- *C++ (for performance + low-level concepts)*
+- React deeply for frontend work
+- C++ for performance, memory management, and low-level concepts
+- Advanced JavaScript patterns
+- Foundations for systems and embedded programming
 
----
+## Featured Projects
 
-## 🧭 Future Tech Stack
-- *SQL* (databases & backend logic)  
-- *Rust* (systems performance, safe concurrency)  
-- *Game Development Tools* (2D/3D experiments)  
-- *Geophysical AI Tools* (automation, analysis, prediction)  
+- Live Markdown Editor - Write, save, and search markdown notes with local storage
+- SkyForecast - Real-time weather app with 5-hour and 5-day forecasts
+- MovieMate - Movie search app using OMDb API
+- URL Shortener - Landing page for link shortening service
+- Real Estate Landing Page - Property listing showcase
 
-> The long-term plan stays quiet; the work speaks loud.
+## My Portfolio
 
----
+All my projects are live here: koredeportfolio.netlify.app
 
-## 💼 Highlight Projects
-### 🎬 MovieMate  
-Movie search web app with live API, metadata, posters & dynamic UI updates.
+## Future Direction
 
-### 🌦 Weather App  
-Smooth interface, animated loading, and *temperature-based background themes*.
+- Systems programming with C++ (memory management, concurrency, performance)
+- Embedded systems development
+- Game development fundamentals
+- Geophysical software tools
 
-### 🪙 Crypto Dashboard  
-Live crypto data with *Top 5 CEX/DEX filtering* + expandable “Show More”.
+## Contact
 
-### ✂ Rock–Paper–Scissors Game  
-Fun logic-driven game using pure JavaScript.
-
-### 💬 Quote Generator  
-Simple API-powered quote display with minimal UI.
-
----
-
-## 🎯 Goals
-- Build production-level frontend apps  
-- Master React & core backend foundations  
-- Start experimenting with Rust + C++ for physics-driven systems  
-- Develop geophysical tools powered by AI  
-- Build indie games and interactive tools  
-- Create tech solutions with real-world impact  
-
----
-
-## 🌱 Philosophy
-- Build often  
-- Debug fearlessly  
-- Learn with intention  
-- Project-first mindset  
-- No shortcuts — just iteration  
-
----
-
-## 📫 Connect / Collaborate
-Open to work, collaboration, and discussions in:
-- Frontend Development  
-- API-based applications  
-- Geophysical tech ideas  
-- Game development experiments  
-
-> “Stay consistent; the future is compounding.” 🚀
+Open to frontend development work and collaboration.
