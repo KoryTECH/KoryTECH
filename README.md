@@ -1,43 +1,47 @@
-# Hi, I'm Korede
+Hi, I'm Korede
 
-Frontend Developer | Geophysics Student
+Frontend developer and geophysics student building responsive web applications. Currently strengthening my foundation in JavaScript, React, and C++. My long-term direction includes systems programming and embedded systems.
 
-I build responsive web applications with clean, maintainable code. Currently strengthening my foundation in JavaScript, React, and C++ for systems programming. My long-term direction includes systems programming and embedded systems.
+🔹 Background
 
-## What I Work With
+I study Applied Geophysics at university and teach myself software development through projects. I focus on solving real problems with code, not just following tutorials.
 
-- HTML, CSS, Tailwind
-- JavaScript (ES6+)
-- React (in progress)
-- REST APIs
-- Git and GitHub
+🔹 Tools & Languages
 
-## What I'm Learning
+JavaScript (ES6+), HTML5, CSS3, Tailwind, React (in progress), REST APIs, Git, GitHub.
 
-- React deeply for frontend work
-- C++ for performance, memory management, and low-level concepts
-- Advanced JavaScript patterns
-- Foundations for systems and embedded programming
+🔹 In Progress
 
-## Featured Projects
+React deeply for frontend work. C++ for performance, memory management, and low-level concepts. Advanced JavaScript patterns. Foundations for systems and embedded programming.
 
-- Live Markdown Editor - Write, save, and search markdown notes with local storage
-- SkyForecast - Real-time weather app with 5-hour and 5-day forecasts
-- MovieMate - Movie search app using OMDb API
-- URL Shortener - Landing page for link shortening service
-- Real Estate Landing Page - Property listing showcase
+🔹 Project Highlights
 
-## My Portfolio
+Live Markdown Editor – Write, save, and search markdown notes with local storage. No backend required. Built with JavaScript, Tailwind, and localStorage.
 
-All my projects are live here: koredeportfolio.netlify.app
+SkyForecast – Real-time weather app with 5-hour and 5-day forecasts. Integrates with OpenWeatherMap API. Built with JavaScript, Tailwind, and REST APIs.
 
-## Future Direction
+MovieMate – Movie search app using OMDb API. Displays ratings, cast, plot, and posters. Built with JavaScript, HTML, and CSS.
 
-- Systems programming with C++ (memory management, concurrency, performance)
-- Embedded systems development
-- Game development fundamentals
-- Geophysical software tools
+URL Shortener – Landing page for a link shortening service. Built with HTML, Tailwind, and JavaScript.
 
-## Contact
+Real Estate Landing Page – Property listing showcase with modern, responsive design. Built with HTML and CSS.
 
-Open to frontend development work and collaboration.
+Portfolio: koredeportfolio.netlify.app
+
+🔹 Where I'm Putting Energy Now
+
+Mastering JavaScript and React through practical projects. Building API-integrated applications. Preparing for deep work in C++ and systems programming.
+
+🔹 Targets
+
+Near term (2026): Complete React mastery. Build full-stack applications. Strengthen C++ fundamentals.
+
+Long term (2027 and beyond): Systems programming with C++ focusing on memory management, concurrency, and performance. Embedded systems development. Game development fundamentals. Geophysical software tools.
+
+🔹 What Sets Me Apart
+
+I combine frontend development with a background in applied geophysics. I am self-taught and project-driven. I build real solutions, not just exercises. I am building toward systems and embedded work, not just web development.
+
+🔹 Reach Me
+
+Open to frontend development work and collaboration. Also interested in geospatial tech ideas and discussions about systems and embedded programming.
